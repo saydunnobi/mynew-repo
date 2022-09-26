@@ -1,0 +1,22 @@
+h1{
+    color: aliceblue;
+    font-size: 60px;
+    border: 10px ;
+}
+p{
+    color: rgb(138, 252, 72);
+}
+body{
+    background-color: black;
+}
+#new {
+      background-color: aqua;
+}
+.ami{
+    background-color: rgb(14, 139, 248);
+    width: 50%;
+    border: 5px solid rgb(105, 237, 100);
+    border-radius: 15px;
+    margin: 20px;
+    padding: 20px;
+}
